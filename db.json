@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": "30",
+      "name": "mahesh",
+      "designation": "ASE",
+      "salary": "35000"
+    },
+    {
+      "id": "1231",
+      "name": "naseer",
+      "designation": "SE",
+      "salary": "40000"
+    },
+    {
+      "id": "50",
+      "name": "srikanth",
+      "designation": "ASE",
+      "salary": "35000",
+      "email": "sri@123"
+    },
+    {
+      "id": "1234",
+      "name": "shiva",
+      "designation": "SE",
+      "salary": "56000"
+    }
+  ]
+}
